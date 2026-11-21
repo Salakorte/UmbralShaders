@@ -40,6 +40,6 @@ Driver compilation uses a Windows OpenGL context. `python tools/validate.py --st
 
 ## Credits
 
-Umbral Shaders uses the Iris shader pack API. The lighting draws on published work on area lights and temporal filtering, and on the architecture of Sonic Ether's SEUS PTGI as a reference. The GLSL was developed with assistance from OpenAI Codex. [Iris](https://irisshaders.dev/) · [PBRT](https://pbr-book.org/4ed/Light_Sources/Area_Lights) · [SVGF](https://research.nvidia.com/publication/2017-07_spatiotemporal-variance-guided-filtering-real-time-reconstruction-path-traced) · [SEUS](https://www.sonicether.com/seus/)
+Umbral Shaders uses the Iris shader pack API. The lighting draws on published work on area lights and temporal filtering, and on the architecture of Sonic Ether's SEUS PTGI as a reference. [Iris](https://irisshaders.dev/) · [PBRT](https://pbr-book.org/4ed/Light_Sources/Area_Lights) · [SVGF](https://research.nvidia.com/publication/2017-07_spatiotemporal-variance-guided-filtering-real-time-reconstruction-path-traced) · [SEUS](https://www.sonicether.com/seus/)
 
 Released under the [MIT License](LICENSE).
